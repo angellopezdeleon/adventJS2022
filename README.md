@@ -1,10 +1,13 @@
+<div align="center">
 
 # 🎅🎄 adventJS 2022 🎄🎅
 
-## 24 días / 24 retos de programación
-### Los retos se puntuaban en función tanto de la complejidad cognitiva y ciclomática de la función, como de la velocidad de ejecución.
+#### 24 días / 24 retos de programación
+##### Los retos se puntuaban en función tanto de la complejidad cognitiva y ciclomática de la función, como de la velocidad de ejecución.
 
-## Resultado en la clasificación: 53º de 12.247 usuarios.
+#### Resultado en la clasificación: 53º de 12.247 usuarios.
+
+
 
 <p align="center"> 
   <img src=./adventResultRanking.png>
@@ -40,3 +43,5 @@
 | 24  |       The las challenge is a maze        |       🔴       | [Show](https://adventjs.dev/challenges/2022/24) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard
+
+</div>
